@@ -1,0 +1,24 @@
+{
+  "name": "angular-restmod-example",
+  "main": "index.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/danriti/angular-restmod-example",
+  "authors": [
+    "Dan Riti <dmriti@gmail.com>"
+  ],
+  "description": "Example usage of the Angular Restmod library",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/js/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.1",
+    "angular-restmod": "~1.1.3"
+  }
+}

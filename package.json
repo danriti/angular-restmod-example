@@ -1,0 +1,23 @@
+{
+  "name": "angular-restmod-example",
+  "version": "1.0.0",
+  "description": "Example usage of the Angular Restmod library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danriti/angular-restmod-example.git"
+  },
+  "author": "Dan Riti <dmriti@gmail.com> (http://operatorerror.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danriti/angular-restmod-example/issues"
+  },
+  "homepage": "https://github.com/danriti/angular-restmod-example",
+  "dependencies": {
+    "express": "^4.10.1",
+    "sleep": "^1.1.8"
+  }
+}
